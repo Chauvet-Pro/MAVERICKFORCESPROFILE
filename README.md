@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250213 - Maverick Force S Profile](https://github.com/Chauvet-Pro/MAVERICKFORCESPROFILE/blob/36fdae0282665d78add39747e6a47c9694de03ea/firmware/V1.250213.zip)
+- No new features or performance enhancements were added. This update is for internal use only
+
 [V1.211005 - Maverick Force S Profile](https://github.com/Chauvet-Pro/MAVERICKFORCESPROFILE/blob/8c6825fee733a87f188255bb3bcceca8b306f39d/firmware/V1.211005.zip)
 - Fixed issue with gobo fans
 
